@@ -863,6 +863,6 @@ img::-moz-selection {
 }
 
 body {
-	background: linear-gradient(to bottom, rgba(255,175,75,1) 0%, 
+	background-image: linear-gradient(120deg, #155799, #159957);
     webkit-tap-highlight-color: #fed136;
 }
