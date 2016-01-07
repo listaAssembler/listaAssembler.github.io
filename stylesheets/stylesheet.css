@@ -56,7 +56,7 @@ a {
 .page-header {
   color: #fff;
   text-align: center;
-  background-size: 64rem 42rem ;
+  background-size: 1em 1em;
   background-color: #159957;
   background-image: url("header.jpg"); }
 
